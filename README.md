@@ -6,7 +6,7 @@
 
 本仓库是 PMO 骨架方法论的开源镜像，包含通用 PMO 骨架手册及其理论层文档。骨架手册提供了一套可复用的项目管理框架，覆盖从项目启动到交付的全流程标准化操作。
 
-**编辑主界面**：[飞书文档](https://bcnf5n0jgtue.feishu.cn/wiki/CvO0wruYZiU2UTkbga5c9b0wnVb)（在线协作、评论、版本迭代）
+**编辑主界面**：[飞书文档](https://bcnf5n0jgtue.feishu.cn/wiki/CvO0wruYZiU2UTkbga5c9b0wnVb)（在线协作、版本迭代）
 **发布镜像**：本仓库（GitHub / Gitee 双平台同步，用于开源展示和 AI 调用）
 
 ## 📂 目录结构
@@ -30,7 +30,7 @@ pmo-framework/
 
 - 飞书为编辑主界面，所有内容更新在飞书完成
 - 每次骨架手册升版后，同步导出 Markdown 并推送到本仓库
-- 本仓库为版本快照，不接受直接 PR 修改，建议在飞书评论区反馈
+- 本仓库为版本快照，不接受直接 PR 修改；欢迎通过本仓库的 Issues 提交反馈与改进建议（GitHub / Gitee 均可）
 
 ## 📜 许可证
 
