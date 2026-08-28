@@ -34,13 +34,12 @@ pmo-framework/
 
 ## 📜 许可证
 
-本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 开源许可证：
+本项目采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 开源许可证：
 
 - **署名（BY）**：使用时必须标注原作者
-- **非商业（NC）**：不得用于商业用途
 - **相同方式共享（SA）**：衍生作品必须采用相同许可证开源
 
-如需商业使用，请联系作者获取授权。
+任何用途（含商业）均可自由使用，仅需遵守上述两点。定制授权或深度合作可联系作者。
 
 ## 🤝 相关仓库
 
